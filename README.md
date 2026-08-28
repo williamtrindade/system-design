@@ -19,3 +19,4 @@ Each project space (e.g., `url-shortener`) contains its respective Excalidraw di
 ## 🔗 Complementary Materials
 
 *   For implementations focused on low-level logic and underlying data structures, check the [Data Structures and Algorithms (DSA)](https://williamtrindade.github.io/dsa/) repository.
+
