@@ -11,6 +11,7 @@ Each project space (e.g., `url-shortener`) contains its respective Excalidraw di
 ## 🚀 Case Studies
 
 - [ ] **URL Shortener** (e.g., bit.ly)
+- [ ] **TIKTOK**
 - [ ] **News Feed System** (e.g., Instagram/Twitter)
 - [ ] **Messaging System** (e.g., WhatsApp/Facebook Messenger)
 - [ ] **Rate Limiter**
